@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images\Sneakers-FallLimitedEditionSneakers10-25-20212-07-21PM.png)
+![](./images/Sneakers-FallLimitedEditionSneakers10-25-20212-07-21PM.png)
 
 ### Links
 
