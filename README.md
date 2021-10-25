@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/VED-ER/VED-ER.github.io](https://github.com/VED-ER/VED-ER.github.io)
+- Live Site URL: [https://ved-er.github.io/](https://ved-er.github.io/)
 
 ### Built with
 
@@ -33,11 +33,10 @@ Users should be able to:
 
 ### About
 
-Like mentioned above this solution is done in pure html,css,js with bootstrap alongside. I used javacript just to get some practice. I wasn't paying attention on anything other than functionallity, and I won't have any further development on this therefore the code could be a lot cleaner. Also, this is my first time using github so I just found something to do to push on github. I have more projects completed and they will be on my portfolio(in development) and on github.
+Like mentioned above this solution is done in pure html,css,js with bootstrap alongside. I used javacript just to get some practice. I wasn't paying attention on anything other than functionallity, and I won't have any further development on this therefore the code could be a lot cleaner. This is my first challenge from frontendmentor so I just rushed to push on github. I have more projects completed and they will be on my portfolio(in development) and on github.
 
 ## Author
 
-- Frontend Mentor - [@VED-ER](https://www.frontendmentor.io/profile/VED-ER)
 - GitHub - [@VED-ER](https://github.com/VED-ER)
 
 
