@@ -5,7 +5,7 @@ This is a solution to the [E-commerce product page challenge on Frontend Mentor]
 
 ### The challenge
 
-Users should be able to:
+Users can:
 
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
@@ -31,9 +31,6 @@ Users should be able to:
 - Bootstrap
 - Vanilla Javascipt
 
-### About
-
-Like mentioned above this solution is done in pure html,css,js with bootstrap alongside. I used javacript just to get some practice. I wasn't paying attention on anything other than functionallity, and I won't have any further development on this therefore the code could be a lot cleaner. This is my first challenge from frontendmentor so I just rushed to push on github. I have more projects completed and they will be on my portfolio(in development) and on github.
 
 ## Author
 
