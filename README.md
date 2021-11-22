@@ -14,7 +14,7 @@ Users can:
 - Switch the large product image by clicking on the small thumbnail images
 - Add items to the cart
 - View the cart and remove items from it
-- BONUS - save the cart when page is refreshed
+- Cart is saved when page is refreshed
 
 ### Screenshot
 
